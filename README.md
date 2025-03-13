@@ -4,7 +4,7 @@ A responsive movie/show web application built using React with TypeScript, power
 
 ## Live Project
 
-[Live Demo](http://xyz.com)
+[Live Demo](http://ec2-13-232-127-207.ap-south-1.compute.amazonaws.com/)
 
 ---
 
@@ -55,6 +55,19 @@ A responsive movie/show web application built using React with TypeScript, power
 - Clean, accessible, and utility-first design approach.
 
 ---
+
+## Testing
+
+- Unit tests for the `ShowCard` component are implemented using **Jest** and **React Testing Library**.
+- Tests cover rendering, props handling, and expected UI behavior.
+
+---
+### Test Command
+```bash
+npm test
+```
+
+
 
 ## Getting Started
 
